@@ -2,7 +2,7 @@
 
 # Unified Fast Dashboard Manager Script 
 
-The `manage_dashboard.sh` script (this utility) is a powerful Bash tool designed to simplify and accelerate the development of Go-based Fyne GUI dashboard applications. It provides an interactive command-line interface for two primary functions:
+The `unified_fast_dashboard_manager.sh` script (this utility) is a powerful Bash tool designed to simplify and accelerate the development of Go-based Fyne GUI dashboard applications. It provides an interactive command-line interface for two primary functions:
 
 1.  **Scaffold a New "Fast Dashboard" Project**: Generates a complete, runnable Fyne application boilerplate. This includes a well-defined project structure, a sample widget that works out-of-the-box, and special "hooks" in the main layout file to enable easy, semi-automated integration of future widgets. During setup, it will prompt you for your preferred initial window dimensions.
 2.  **Add Features to an Existing Project**: Once a project is created, this script (a copy of which is placed inside your new project) helps you easily add new components. It uses a user-friendly menu to guide you through adding:
